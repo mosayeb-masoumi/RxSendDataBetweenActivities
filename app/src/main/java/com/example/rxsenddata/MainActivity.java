@@ -8,6 +8,8 @@ import android.view.Display;
 
 import java.util.ArrayList;
 
+//source https://medium.com/@bishoy_abd/sending-data-between-different-parts-of-your-app-using-rxjava2-5675153e37c
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
